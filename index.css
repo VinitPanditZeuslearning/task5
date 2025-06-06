@@ -12,8 +12,8 @@
   }
 
   .login {
-      height: 600px;
-      width: 40%;
+      height: 550px;
+      width: 488px;
       background-color: white;
       display: flex;
       flex-direction: column;
@@ -165,7 +165,6 @@
       flex-direction: column;
       gap: 5px;
       padding: 5px;
-      margin-top: 13px;
   }
 
   .textInput {
